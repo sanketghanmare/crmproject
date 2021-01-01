@@ -29,26 +29,6 @@ Press right-click and run as java application.
 1. Open Browser (Google Chrome, Safari, etc) and enter the URL `http://localhost:8080/` on the browser.
 #### Note:- Sometimes it may take some time to open it for the first time on browser.
   
-![image](https://user-images.githubusercontent.com/24240931/103443296-acb85b80-4c2b-11eb-99de-7f0386b5677a.png)
-
-
-2. Following are the features available for Employee Portal:
-
-```Add an Employee.```
-![image](https://user-images.githubusercontent.com/24240931/103443377-bd1d0600-4c2c-11eb-99fc-e837eab6a17c.png)
-
-
-```Update an Employee.```
-![image](https://user-images.githubusercontent.com/24240931/103443382-d6be4d80-4c2c-11eb-9386-88c04be869cb.png)
-
-
-```Delete an Employee.```
-![image](https://user-images.githubusercontent.com/24240931/103443402-feadb100-4c2c-11eb-98d9-8192e7ab14e6.png)
-
-
-```Home Page Link```
-I have provided a home page link also to redirect it to employee list main page from update page
-
 #### Front end and Backend technologies
 
 I used Springboot, Mysql, Thymeleaf, JPA, Maven.
