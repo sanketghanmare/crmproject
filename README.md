@@ -46,9 +46,13 @@ I used Springboot, Mysql, Thymeleaf, JPA, Maven.
 #### Data Setup
 
 1] Use Mysql workbench for best results.
+
 2] Create a local Database in mysql workbench.
+
 3] Open file employee.sql and import it in workbench and run it. It will create employee table and a new database.
+
 4] Import data present inside employee.json inside newly created employee database.
+
 5] Refresh entire database and run employee table for see the available employee data.
 
 
