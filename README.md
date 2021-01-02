@@ -1,8 +1,5 @@
 <h1 align="center">Employee Management Tool</h1> 
 
-## A Web Application to detect plagiarism in Javascript files.
-
-
 ### Steps to Build the application
 
 1. Clone this repository or download the zip file of the entire application.
@@ -26,7 +23,7 @@ Press right-click and run as java application.
 
 ### Steps to use the Employee Management Tool
 
-1. Open Browser (Google Chrome, Safari, etc) and enter the URL `http://localhost:8080/` on the browser.
+1. Open Browser (Google Chrome, etc) and enter the URL `http://localhost:8080/` on the browser.
 #### Note:- Sometimes it may take some time to open it for the first time on browser.
 
 #### Following are the features in Employee Portal
